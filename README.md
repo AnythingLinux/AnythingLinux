@@ -12,8 +12,6 @@
 
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/LinuxCopilot) [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/FreelancerMasumForLinux/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnythingLinux) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/linuxgun/](https://www.linkedin.com/in/linuxgun/)) 
 
-<a
-href="http://www.github.com/AnythingLinux"><img src="https://github-readme-stats.vercel.app/api?username=AnythingLinux&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AnythingLinux GitHub Stats" /></a><a
-                  href="http://www.github.com/AnythingLinux"><img
+<a href="http://www.github.com/AnythingLinux"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=AnythingLinux&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
                                     <a href="https://github.com/AnythingLinux" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnythingLinux&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
