@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=+root@cli:>+whoami_;I'm+Masum+from+Bangladesh+)](http://in.milind.live)
 > Ask Me Anything Goes Linux
 
-- 🙏 As-salamualaykum
-- 🔭 I'm currently working only for Linux related projects
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I'm currently working Anything Goes Linux Related Projects
 
 📫 Connect with me:
 
